@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Robert Graham** and I'm currently a **Lead Site Reliability Engineer @ Cerner Corporation**.
+I'm **Robert Graham** and I'm currently a **Lead Site Reliability Engineer [Cerner Corporation](https://github.com/cerner)**.
 
 📫 How to reach me:
 
