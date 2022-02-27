@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Robert Graham** and I'm currently a **Lead Site Reliability Engineer [Cerner Corporation](https://github.com/cerner)**.
+I'm **Robert Graham** and I'm currently a **Lead Site Reliability Engineer at [Cerner Corporation](https://github.com/cerner)**.
 
 ### 📫 Social
 [![Twitter: @SECMizzou](https://img.shields.io/twitter/follow/SECMizzou?style=social)](https://twitter.com/SECMizzou) &nbsp;
