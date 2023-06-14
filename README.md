@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm a **Senior Site Reliability Engineer** at [Has
 [![Twitter: @SECMizzou](https://img.shields.io/twitter/follow/SECMizzou?style=social)](https://twitter.com/SECMizzou) &nbsp;
 [![LinkedIn: robertgrahamsre](https://img.shields.io/badge/robertgrahamsre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertgrahamsre)](https://www.linkedin.com/in/robertgrahamsre) &nbsp;
 [![GitHub: Robert Graham](https://img.shields.io/github/followers/graham1228?label=follow&style=social)](https://github.com/graham1228) &nbsp;
-![](https://visitor-badge.glitch.me/badge?page_id=graham1228.graham1228)
+![](https://vbr.wocr.tk/badge?page_id=graham1228.graham1228)
 
 ### 👨‍💻 Tech Stack & Tools
 
