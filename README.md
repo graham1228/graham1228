@@ -1,6 +1,6 @@
 ### Hi there, I'm Robert Graham! 👋
 
-Welcome to my GitHub profile. I'm a **Senior Site Reliability Engineer** at [Hashicorp](https://github.com/hashicorp), passionate about building scalable and reliable systems. With a strong background in software engineering and a love for problem-solving, I thrive in dynamic and challenging environments.
+Welcome to my GitHub profile. I'm a **Senior Site Reliability Engineer** at [IBM](https://github.com/ibm), passionate about building scalable and reliable systems. With a strong background in software engineering and a love for problem-solving, I thrive in dynamic and challenging environments.
 
 ### 📫 Let's Connect!
 
@@ -13,10 +13,12 @@ Welcome to my GitHub profile. I'm a **Senior Site Reliability Engineer** at [Has
 
 I am proficient in various technologies and tools, including:
 
-- **Programming Languages**: Python, Go, JavaScript
+- **Programming Languages**: Go, Python, JavaScript, Bash
 - **Cloud Platforms**: AWS, Azure, GCP
-- **Containerization**: Docker, Kubernetes
-- **Infrastructure as Code**: Terraform, Ansible
+- **HashiCorp Stack**: Terraform, Vault, Consul, Nomad, Packer
+- **Containerization & Orchestration**: Kubernetes, Docker, Helm
+- **Infrastructure & Configuration Management**: Ansible, Puppet, Chef
+- **Observability & Monitoring**: Prometheus, Grafana, ELK Stack, Datadog, OpenTelemetry
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
 - **Operating Systems**: Linux, macOS
